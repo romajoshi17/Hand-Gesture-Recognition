@@ -1,4 +1,4 @@
-# Prodigy_ML_04
+# Hand Gesture Recognition
 This project focuses on building a hand gesture recognition model using Convolution Neural Networks (CNN).
 
 The dataset is taken from: https://www.kaggle.com/datasets/gti-upm/leapgestrecog/data. The database is composed by 10 different hand-gestures that were performed by 10 different subjects (5 men and 5 women).
